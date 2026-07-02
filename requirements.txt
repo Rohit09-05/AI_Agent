@@ -1,8 +1,7 @@
 fastapi==0.109.0
 uvicorn[standard]==0.27.0
 pydantic==2.5.3
-beautifulsoup4==4.12.3
-requests==2.31.0
+pydantic-core==2.14.6
 python-dotenv==1.0.0
 openai>=1.54.0
 rank-bm25==0.2.2
